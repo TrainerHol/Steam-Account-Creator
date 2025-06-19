@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "total": 1,
+    "success": 0,
+    "failures": 1,
+    "successRate": 0,
+    "lastUpdated": "2025-06-19T16:17:44.555Z"
+  },
+  "results": [
+    {
+      "email": "jamessfan12@gmail.com",
+      "success": false,
+      "error": "Could not find or click submit button",
+      "duration": 196402,
+      "timestamp": "2025-06-19T16:17:42.522Z"
+    }
+  ]
+}

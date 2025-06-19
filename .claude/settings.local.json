@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "WebFetch(domain:apidocs.webshare.io)",
+      "mcp__browsermcp__browser_snapshot",
+      "mcp__context7__get-library-docs",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx playwright install:*)",
+      "Bash(mkdir:*)"
+    ],
+    "deny": []
+  }
+}
