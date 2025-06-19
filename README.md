@@ -2,10 +2,6 @@
 
 Automated Steam account creation tool with advanced stealth features, proxy rotation, and captcha solving capabilities.
 
-## ⚠️ Legal Notice
-
-This tool is for educational and research purposes only. Automated account creation may violate Steam's Terms of Service. Use at your own risk and ensure compliance with applicable laws and service terms.
-
 ## Features
 
 - **Advanced Stealth**: Playwright with fingerprinting and stealth plugins
